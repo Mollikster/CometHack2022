@@ -1,2 +1,5 @@
 # CometHack2022
-repo for team Moose Champions' Comet Hack submission
+Repo for team Moose Champions' Comet Hack submission
+
+"transmitter.ino" is the code for the Transmitter Arduino
+"receiver.ino" is the code for the Receiver Arduino
